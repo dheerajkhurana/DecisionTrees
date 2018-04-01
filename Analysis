@@ -1,0 +1,5 @@
+The decision trees were constructed by limiting the maximum depth of the decision tree and by adding the criterion entropy in the Decision tree classifier function)
+(clf = tree.DecisionTreeClassifier(max_depth=X, criterion='entropy')
+Where X=1,2,3
+
+continued...
