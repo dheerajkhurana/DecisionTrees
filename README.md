@@ -1,6 +1,6 @@
 # DecisionTrees
 
-In this repositery Decision Tree model is implemented in python using the ML scikit-learn package. DT's are also visualized using the graphviz package.
+In this repositery Decision Tree model is implemented in python using the ML scikit-learn package. DT's are also visualized using the graphviz package. The Datasets(training & testing) used for making decision tree classifer are taken from UCI Machine Learning Repository: archive.ics.uci.edu/ml/datasets/Forest+type+mapping
 
 # What is Decision Tree Classifier ?
 
